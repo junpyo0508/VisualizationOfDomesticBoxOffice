@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import * as d3 from "d3";
-import loadMovieData from "./OverallBarChart/loadMovieData.js";
+import loadMovieData from "./OverallBarChart/loadMovieData";
 import "./MovieChart.css";
 
 const genreColors = {
@@ -52,7 +52,7 @@ const MovieChart = ({ year, ratingFactor, awardFactor, revenueFactor, selectedGe
 
         const sortedMovies = Object.values(ratingsMap).sort((a, b) => b.관람평점 - a.관람평점);
         const ratingRankMap = sortedMovies.reduce((acc, movie, index) => {
-          acc[movie.영화명] = index + 1; // 순위는 1부터 시작
+          acc[movie.영화명] = index + 1; 
           return acc;
         }, {});
 
@@ -526,7 +526,8 @@ const MovieChart = ({ year, ratingFactor, awardFactor, revenueFactor, selectedGe
           });
       });
     
-      
+
+
     chartGroup
       .selectAll(".x-axis")
       .data([null])

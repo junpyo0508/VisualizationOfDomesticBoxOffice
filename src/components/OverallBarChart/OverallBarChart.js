@@ -5,7 +5,6 @@ import * as d3 from "d3";
 import loadMovieData from "./loadMovieData.js";
 import "./OverallBarChart.css";
 
-
 const genreColors = {
   Crime: "#C4B8AC",
   Horror: "#E17860",
