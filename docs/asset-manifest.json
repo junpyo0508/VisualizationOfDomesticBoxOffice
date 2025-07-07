@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/css/main.7f8f895b.css",
+    "main.js": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/js/main.31a344f5.js",
+    "static/js/453.89a6e67b.chunk.js": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/js/453.89a6e67b.chunk.js",
+    "static/media/SpoqaHanSansNeo-Regular.woff": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
+    "static/media/Kokila Bold.ttf": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/media/Kokila Bold.2b7504ffac578bac184b.ttf",
+    "static/media/image.jpg": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/media/image.c93b7504c285f78e5792.jpg",
+    "index.html": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/index.html",
+    "main.7f8f895b.css.map": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/css/main.7f8f895b.css.map",
+    "main.31a344f5.js.map": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/js/main.31a344f5.js.map",
+    "453.89a6e67b.chunk.js.map": "/Visualization-of-Domestic-Box-Office-Sales-by-Weight/static/js/453.89a6e67b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f8f895b.css",
+    "static/js/main.31a344f5.js"
+  ]
+}
